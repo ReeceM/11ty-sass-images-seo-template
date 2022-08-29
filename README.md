@@ -1,5 +1,8 @@
 # 11ty-sass-images-seo
 
+> **Note**
+> Thanks go to [AleksandrHovhannisyan](https://github.com/AleksandrHovhannisyan/)
+
 > The four ingredients to an awesome static site.
 
 This is an opinionated starter for [11ty](https://github.com/11ty/eleventy) that includes:
@@ -20,8 +23,6 @@ This starter template does not:
 - Make any assumptions about your client-side JavaScript bundler or pipeline.
 - Configure a Markdown processor (you can install `markdown-it` if you need it).
 - Get in your way.
-
-Most of this template serves as the foundation for [my personal website](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com).
 
 ## Table of Contents
 
